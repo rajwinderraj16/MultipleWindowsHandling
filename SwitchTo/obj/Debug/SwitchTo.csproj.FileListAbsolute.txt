@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\obj\Debug\SwitchTo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\SwitchTo.exe.config
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\SwitchTo.exe
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\SwitchTo.pdb
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\WebDriver.dll
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\WebDriver.Support.dll
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\WebDriver.xml
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\bin\Debug\WebDriver.Support.xml
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\obj\Debug\SwitchTo.csproj.CopyComplete
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\obj\Debug\SwitchTo.exe
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\obj\Debug\SwitchTo.pdb
+C:\Users\admin\source\repos\SwitchTo\SwitchTo\obj\Debug\SwitchTo.csprojAssemblyReference.cache
